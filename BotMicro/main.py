@@ -6,9 +6,9 @@ from bot.factory import create_bot, create_dispatcher
 from web.factory import create_app
 
 
-BOT_TOKEN = getenv('BOT_TOKEN')
+BOT_TOKEN = getenv('6271780599:AAEV_zB7To_jQLdhxbPA6wKP01pzVOB6xZQ')
 assert BOT_TOKEN
-
+TOKEN = '6271780599:AAEV_zB7To_jQLdhxbPA6wKP01pzVOB6xZQ' 
 
 deta = Deta()
 
